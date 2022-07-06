@@ -15,6 +15,7 @@ class AsaasServiceProvider extends ServiceProvider {
     public function register()
     {
         //
+        $this->registerRouterMacro();
     }
 
     /**
@@ -24,7 +25,6 @@ class AsaasServiceProvider extends ServiceProvider {
      */
     public function boot()
     {
-        $this->registerRouterMacro();
     }
 
     private function registerRouterMacro()
