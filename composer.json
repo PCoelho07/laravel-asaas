@@ -1,0 +1,37 @@
+{
+  "name": "pedrocoelho/laravel-asaas",
+  "description": "A laravel wrapper for Asaas Http api",
+  "keywords": [
+    "framework",
+    "laravel",
+    "payment gateway",
+    "Asaas"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.0",
+    "laravel/framework": "~9.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Laravel\\Asaas\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Pedro Coelho",
+      "email": "pdrbt@outlook.com"
+    }
+  ],
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Laravel\\Asaas\\AsaasServiceProvider"
+      ]
+    }
+  },
+  "require-dev": {
+    "orchestra/testbench": "^7.0"
+  }
+}
