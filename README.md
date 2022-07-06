@@ -1,1 +1,1 @@
-## Laravel Asaas - 0.0.1
+## Laravel Asaas - 1.0.0-beta.1
