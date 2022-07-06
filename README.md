@@ -1,5 +1,10 @@
 # Laravel wrapper for [Asaas](https://www.asaas.com/)
 
+[![Total Downloads](https://poser.pugx.org/pcoelho/laravel-asaas/d/total.svg)](https://packagist.org/packages/pcoelho/laravel-asaas)
+[![Latest Stable Version](https://poser.pugx.org/pcoelho/laravel-asaas/v/stable.svg)](https://packagist.org/packages/pcoelho/laravel-asaas)
+[![Latest Unstable Version](https://poser.pugx.org/pcoelho/laravel-asaas/v/unstable.svg)](https://packagist.org/packages/pcoelho/laravel-asaas)
+[![License](https://poser.pugx.org/pcoelho/laravel-asaas/license.svg)](https://packagist.org/packages/pcoelho/laravel-asaas)
+
 ## Instalation
 
 You can install the package via composer:
